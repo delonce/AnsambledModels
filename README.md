@@ -1,0 +1,2 @@
+# AnsambledModels
+A simple code designed in ipynb format, which is a set of classes that create ensembles from machine learning methods, in addition to the classes, the file contains an example of use and a link to the dataset for verification. One of the classes uses the soft voting method to perform ensemble prediction, the second method is trained on the set of ensemble predictions using the LGBMRegressor class.
